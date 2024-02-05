@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m a student working part-time as Frontend-Developer since December 2021.
+- 🌱 I’m currently exploring [cloud skills with Google](https://www.cloudskillsboost.google/public_profiles/3b6c0030-f99e-4ab2-a822-5cd44ec954fe).
+- 🇧🇯 Benin native, I am currently based in Berlin 🐻.
+- 3️⃣ I speak French, English and German.
+- 📫 Let's connect on [Linkedin](https://www.linkedin.com/in/fleurongnadekpa/).
+- ⚡ Fun fact: I like to sing praises to God.
+
 <!--
 **fleuronvilik/fleuronvilik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
